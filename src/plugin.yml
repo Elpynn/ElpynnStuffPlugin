@@ -1,0 +1,9 @@
+name: ElpynnStuffPlugin
+version: 0.1-A
+author: Elpynn
+main: com.elpynn.elpynnstuffplugin.ElpynnStuffPlugin
+api-version: 1.16
+depend: [Vault]
+commands:
+  hello:
+    description: Says hello!
